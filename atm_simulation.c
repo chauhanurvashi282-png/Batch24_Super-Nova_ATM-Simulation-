@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int balance = 10000;   
-int correctPin = 1234; 
+int correctPin = 0606; 
 char name[50];
 int accNo;
 
